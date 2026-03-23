@@ -28,7 +28,7 @@
 2. Определите обязательный ключ:
 
    ```powershell
-   set P2P_API_KEY=wZXVPe5LAgW46G8VLPIs6Fpjsbly3yK25wWU
+   set P2P_API_KEY="свой ключи API из кошелька телеграм"
    ```
 
    (или добавьте переменную в конфигурацию PyCharm).
